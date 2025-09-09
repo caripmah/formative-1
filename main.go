@@ -27,7 +27,7 @@ func soal2() {
 func soal3() {
 	var kataPertama = "saya"
 	var kataKedua = "senang"
-	var kataKetiga = "belajar"
+	var kataKetiga = "belajarr"
 	var kataKeempat = "golang"
 
 	kalimat := kataPertama + " " +
