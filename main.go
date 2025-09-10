@@ -42,12 +42,12 @@ func soal3() {
 func soal4() {
 	var angkaPertama = "8"
 	var angkaKedua = "5"
-	var angkaKetiga = "6"
+	var angkaKetigaa = "6"
 	var angkaKeempat = "7"
 
 	a1, _ := strconv.Atoi(angkaPertama)
 	a2, _ := strconv.Atoi(angkaKedua)
-	a3, _ := strconv.Atoi(angkaKetiga)
+	a3, _ := strconv.Atoi(angkaKetigaa)
 	a4, _ := strconv.Atoi(angkaKeempat)
 
 	jumlah := a1 + a2 + a3 + a4
