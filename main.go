@@ -63,14 +63,14 @@ func soal5() {
 	var tinggiSegitiga string = "7"
 
 	
-	panjang, _ := strconv.Atoi(panjangPersegiPanjang)
+	panjangg, _ := strconv.Atoi(panjangPersegiPanjang)
 	lebar, _ := strconv.Atoi(lebarPersegiPanjang)
 	alas, _ := strconv.Atoi(alasSegitiga)
 	tinggi, _ := strconv.Atoi(tinggiSegitiga)
 
 
-	var luasPersegiPanjang int = panjang * lebar
-	var kelilingPersegiPanjang int = 2 * (panjang + lebar)
+	var luasPersegiPanjang int = panjangg * lebar
+	var kelilingPersegiPanjang int = 2 * (panjangg + lebar)
 	var luasSegitiga int = (alas * tinggi) / 2
 
 
